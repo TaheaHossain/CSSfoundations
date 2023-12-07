@@ -1,0 +1,16 @@
+.oneB
+.twoB{
+    font-size: 28px;
+    font-family:'Helvectica', 'sans-serif', 'Times New Roman';
+}
+
+.oneB{
+    background-color: black;
+    color: white;
+}
+
+.twoB{
+    background-color: yellow;
+    color: black;
+
+}
